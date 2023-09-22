@@ -1,0 +1,10 @@
+Ans 4. Familiarisation of Web Content Accessibility guidelines (WCAG)
+Use of Image alternative text
+Ensuring proper heading structure or Semantic Structure of HTML
+Making links Descriptive 
+Accessibility in Form
+Text resizes and Zoom testing
+Video and Audio Accessibility
+HTML tables
+Color contrast
+Use of tab index

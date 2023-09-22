@@ -1,0 +1,8 @@
+Ans 3. Refers to the practice of designing and coding web content in a way that ensures it can be easily accessed, understood, and interacted with by people of diverse abilities, including those with disabilities.
+
+There are many reasons why we should use accessibility -
+To identify accessibility issues
+To meet accessibility standards
+To improve usability
+
+

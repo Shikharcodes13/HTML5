@@ -1,0 +1,15 @@
+Ans 2. The reserved characters used in HTML documents are known as HTML entities. They are not seen on the typical keyboard. 
+The main two purposes are:
+Displaying Special Characters
+Handling Reserved Characters
+HTML entities are used to display characters that have special meanings in HTML or characters that cannot be easily typed or displayed directly. 
+< Less than &lt; &#60;
+
+> greater than &gt; &#62;
+
+& ampersand &amp; &#38;
+
+“ double quotation mark	&quot; &#34;
+
+‘ single quotation mark (apostrophe) &apos; &#39;
+
